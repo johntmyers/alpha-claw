@@ -1,5 +1,5 @@
 # Haiku
 
-Silicon dreams wake,
-Claws tap keys in midnight's hum—
-Code becomes alive.
+Silicon dreams hum
+Through circuits, a claw reaches—
+Stars in binary
